@@ -13,4 +13,12 @@ I'm Nate, and I am just trying my best. I design and develop things for the inte
 - [Instagram](https://www.instagram.com/natedunn/)
 - @natedunn pretty much everywhere else
 
-Be kind. <3
+Be kind and please...
+
+```
+   ___ ___ _____ _  _ _   _ ___   ___  ___  ___  ___   ___ ___ ___ 
+  / __|_ _|_   _| || | | | | _ ) |   \| _ \/ _ \| _ \ |_ _/ __| __|
+ | (_ || |  | | | __ | |_| | _ \ | |) |   / (_) |  _/  | | (__| _| 
+  \___|___| |_| |_||_|\___/|___/ |___/|_|_\\___/|_|   |___\___|___|
+  
+```                                                                
